@@ -22,11 +22,13 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, My Name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you
+I'm Group Manager Bot Like MissRose Bot But Does With More Features. 
 
-I'm group manager bot 🃏
+I'm Managed By [This SexY bOi](https://t.me/unknown_hacker_x) 
 
-Click /help or Help button below to find out more about how to use me to my full potential.
+So Feel Free To Add Me Into Your Group To Maintain. 
+
+That's It. I Don't Accept Donations. That's It. 
 """
 
 
